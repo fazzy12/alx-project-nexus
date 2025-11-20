@@ -37,7 +37,7 @@ The ALX ProDev Frontend Engineering program is an intensive curriculum designed 
 
 ---
 
-## 🚧 Challenges Faced and Solutions Implemente
+## 🚧 Challenges Faced and Solutions Implemented
 
 | Challenge | Description of the Problem | Solution Implemented |
 | :--- | :--- | :--- |
